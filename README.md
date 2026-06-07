@@ -22,7 +22,7 @@ I compared the effect of different epsilon (exploration rate) on training perfor
 
 The following figure shows the learning curves (smoothed over 100 episodes):
 
-![Comparison of epsilon=0.1 vs 0.2](epsilon 0.1 vs 0.2.png)
+![Comparison of epsilon=0.1 vs 0.2](comparison.png)
 
 As epsilon increases, the agent explores more and achieves slightly higher final reward.
 
